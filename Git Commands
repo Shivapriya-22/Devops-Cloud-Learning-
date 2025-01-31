@@ -1,0 +1,9 @@
+Git Commands :
+
+Download : Git - Downloading Package
+
+Setting up Git :
+  After installation, configure Git with your user information:
+
+        git config --global user.name "Your Name"
+        git config --global user.email youremail@gmail.com
